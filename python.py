@@ -1,9 +1,4 @@
-# def factorial(num):
-#     sum = 1
-#     for i in range(2,num+1):
-#        sum*=i
-#     print(sum)
-# print(factorial(5))
+
 # list = [3,2,1,0]
 # for i in range(0,len(list)):
 #     print(list[i])
